@@ -1,4 +1,4 @@
-### Projeto - TecBlog
+### Projeto - Museu Nacional
 
 Esse projeto se trata de um site de Museu com o intuito de por em prática e exercitar os conhecimentos que vem sendo adquiridos nos estudos sobre Front-End.
 
